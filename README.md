@@ -1,2 +1,2 @@
 # Google-Developer-Challenge-Scholarship
-Quizes from Google Developer Challenge Scholarship Front
+There was more quizes but this is my lab solutions for Google Developer Challenge Scholarship - Front End Web Development
